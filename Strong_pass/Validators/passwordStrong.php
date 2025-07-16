@@ -1,7 +1,7 @@
 <?php 
 namespace Strong_pass\Validators;
 
-class StrongPassword{
+class passwordStrong{
     
     private $value;
     

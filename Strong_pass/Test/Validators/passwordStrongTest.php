@@ -2,7 +2,7 @@
 namespace Strong_pass\Validators;
 
 use PHPUnit\Framework\TestCase;
-use Strong_pass\ValidatorspasswordStrong;
+use Strong_pass\Validators\passwordStrong;
 
 class passwordStrongTest extends TestCase {
 
